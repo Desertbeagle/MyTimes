@@ -62,7 +62,9 @@ nav span {
   padding-left: 20px;
   padding-top: 80px;
   width: 100%;
+  min-width: 600px;
   justify-content: center;
+
 
 
 }
@@ -81,6 +83,7 @@ nav span {
 .large {
   display: flex;
   width: 630px;
+  min-width: 630px;
 
 
 
@@ -169,6 +172,7 @@ nav span {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+
 
 
 
