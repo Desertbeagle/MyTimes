@@ -62,8 +62,9 @@ nav span {
   padding-left: 20px;
   padding-top: 80px;
   width: 100%;
-  min-width: 600px;
+  min-width: 1270px;
   justify-content: center;
+  overflow: scroll;
 
 
 
@@ -94,6 +95,7 @@ nav span {
 
 .medium {
   width: 300px;
+  min-width: 300px;
 }
 .small {
   width: 240px;
@@ -101,6 +103,7 @@ nav span {
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
+  min-width: 240px;
 }
 .fit
 {
