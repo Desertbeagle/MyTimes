@@ -6,6 +6,7 @@
 
 }
 
+
 a {
   color: black;
 
@@ -64,7 +65,7 @@ nav span {
   width: 100%;
   min-width: 1270px;
   justify-content: center;
-  overflow: scroll;
+
 
 
 
@@ -85,6 +86,7 @@ nav span {
   display: flex;
   width: 630px;
   min-width: 630px;
+
 
 
 
@@ -234,6 +236,7 @@ Footer {
   justify-content: center;
   align-items: center;
   width: 100%;
+  min-width: 1270px;
   height: 300px;
 }
 Footer nav {
