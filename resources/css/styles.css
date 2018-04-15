@@ -22,6 +22,7 @@ header {
   align-items: center;
   height: 80px;
   width: 100%;
+  min-width: 280px;
   position: fixed;
 }
 h2 {
